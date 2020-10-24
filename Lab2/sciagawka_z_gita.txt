@@ -1,0 +1,7 @@
+git init - Zainicjowanie lokalnego repozytorium
+
+git add - Dodanie plików do poczekalni 
+
+git commit -m - Utworzenie commita wraz z wiadomoscia 
+
+git status - Sprawdzenie statusu zmian

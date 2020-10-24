@@ -1,0 +1,16 @@
+FIND
+1.find -mtime 14 
+2.find /root/. 
+3. find . -not -ntime 20 
+4.find /etc -type d -not -empty
+
+
+
+
+
+
+GREP
+1.grep -n " "
+2. grep "^[0-9]" pl*
+3. greo "^.\{8}r" *
+4.grep -c "/bin/bash$" /etc/passwd
